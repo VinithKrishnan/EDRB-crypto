@@ -6,6 +6,6 @@ My contributions:
 
 Run:
 
- Unit tests: '''go test pvss.go pvss_test.go'''
+ Unit tests: ```go test pvss.go pvss_test.go```
  
- Benchmarks: '''go test -bench=. pvss.go pvss_test.go'''
+ Benchmarks: ```go test -bench=. pvss.go pvss_test.go```
